@@ -1,6 +1,7 @@
 package data;
 
 import static halpers.Artist.*;
+
 import halpers.Clock;
 
 import org.lwjgl.opengl.Display;
